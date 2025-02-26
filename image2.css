@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: rgb(234, 229, 232);
+}
+#search-bar{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 100%;
+    margin: 100px;
+    margin-top: 100px;
+    align-items: center;
+}
+#search-bar img{
+    border-radius: 30px;
+
+}
